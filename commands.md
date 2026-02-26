@@ -1,4 +1,4 @@
-crave -n clone create --projectID 93 crave-devspaces/Munch
+crave -n clone create --projectID 93 Munch
 
 cd Munch
 
