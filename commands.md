@@ -1,3 +1,5 @@
+crave -n clone destroy Munch
+
 crave -n clone create --projectID 93 Munch
 
 cd Munch
